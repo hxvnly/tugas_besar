@@ -14,7 +14,7 @@
 	<meta property="og:image" content="{{$product_detail->photo}}">
 	<meta property="og:description" content="{{$product_detail->description}}">
 @endsection
-@section('title','E-SHOP || PRODUCT DETAIL')
+@section('title','AFO SHOP || PRODUCT DETAIL')
 @section('main-content')
 
 		<!-- Breadcrumbs -->
@@ -347,8 +347,8 @@
                                             @php 
                                                 $after_discount=($data->price-(($data->discount*$data->price)/100));
                                             @endphp
-                                            <span class="old">${{number_format($data->price,2)}}</span>
-                                            <span>${{number_format($after_discount,2)}}</span>
+                                            <span class="old">Rp.{{number_format($data->price,2)}}</span>
+                                            <span>Rp.{{number_format($after_discount,2)}}</span>
                                         </div>
                                       
                                     </div>
