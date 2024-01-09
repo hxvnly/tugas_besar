@@ -18,12 +18,12 @@
 	</div>
 	<!-- End Breadcrumbs -->
 
-	<!-- Shopping Cart -->
+	<!-- Shopping Carttttttt -->
 	<div class="shopping-cart section">
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
-					<!-- Shopping Summery -->
+					<!-- Shopping Summeryyyyy -->
 					<table class="table shopping-summery">
 						<thead>
 							<tr class="main-hading">

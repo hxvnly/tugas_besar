@@ -1,7 +1,7 @@
 @extends('frontend.layouts.master')
 @section('title','AFO SHOP || HOME PAGE')
 @section('main-content')
-<!-- Slider Area -->
+<!-- Slider Area rumah fadhill-->
 @if(count($banners)>0)
     <section id="Gslider" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -33,7 +33,7 @@
     </section>
 @endif
 
-<!--/ End Slider Area -->
+<!--/ End Slider Areaaaa -->
 
 <!-- Start Small Banner  -->
 <section class="small-banner section">

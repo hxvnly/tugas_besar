@@ -3,7 +3,7 @@
 @section('title','AFO SHOP || Blog Detail page')
 
 @section('main-content')
-    <!-- Breadcrumbs -->
+    <!-- Breadcrumbssssss -->
     <div class="breadcrumbs">
         <div class="container">
             <div class="row">
@@ -18,7 +18,7 @@
             </div>
         </div>
     </div>
-    <!-- End Breadcrumbs -->
+    <!-- End Breadcrumbssssss -->
 
     <!-- Start Blog Single -->
     <section class="blog-single section">
