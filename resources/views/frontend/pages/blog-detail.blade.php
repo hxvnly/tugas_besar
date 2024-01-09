@@ -110,7 +110,7 @@
                             </p>
 
 
-                            <!--/ End Form -->
+                            <!--/ End Formmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm -->
                             @endauth
                             <div class="col-12">
                                 <div class="comments">
@@ -193,13 +193,13 @@
                                 </form>
                             </div>
                         </div>
-                        <!--/ End Single Widget -->
+                        <!--/ End Single Widgetttttttttttttttttttttttttttttttttttttttt -->
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--/ End Blog Single -->
+    <!--/ End Blog Singleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee -->
 @endsection
 @push('styles')
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5f2e5abf393162001291e431&product=inline-share-buttons' async='async'></script>
@@ -243,7 +243,7 @@ $(document).ready(function(){
 
             $('#commentFormContainer').append(html);
         });
-
+//sayurrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
  })(jQuery)
 })
 </script>

@@ -431,7 +431,7 @@
                 </form>
         </div>
     </section>
-    <!--/ End Checkout -->
+    <!--/ End Checkoutoutttttttttttotototototttttttototototototototototototototototototototototototototototoototottootottotoottootot -->
     
     <!-- Start Shop Services Area  -->
     <section class="shop-services section home">
@@ -571,7 +571,7 @@
 				let cost = parseFloat( $(this).find('option:selected').data('price') ) || 0;
 				let subtotal = parseFloat( $('.order_subtotal').data('price') ); 
 				let coupon = parseFloat( $('.coupon_price').data('price') ) || 0; 
-				// alert(coupon);
+				// alerttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt(coupon);
 				$('#order_total_price span').text('Rp.'+(subtotal + cost-coupon).toFixed(2));
 			});
 
